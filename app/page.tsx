@@ -68,7 +68,7 @@ export default function Home() {
 
       // 2. إعداد رسالة الواتساب أوتوماتيكياً
       // ⚠️ المرجو تبديل هاد النمرة بنمرتك الحقيقية (مثال: 212612345678)
-      const myWhatsAppNumber = "212630492534"; 
+      const myWhatsAppNumber = "212630492534";
       
       const message = `🌟 *طلب جديد من المتجر* 🌟%0A%0A` +
                       `📦 *المنتج:* ${selectedProduct.name}%0A` +
